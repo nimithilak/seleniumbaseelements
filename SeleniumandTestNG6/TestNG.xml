@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="test suites" verbose="2">
+<test name="testes">
+<groups>
+<run>
+<exclude name="point"> </exclude>
+</run>
+</groups>
+<parameter name="Name" value="nimi"></parameter>
+<classes>
+<class name ="testNG.testNGNewTest"></class>
+<!-- <class name ="testNG.buttontest"></class>
+<class name ="testNG.TestNGNewTest2"></class> -->
+</classes>
+</test>
+</suite>
