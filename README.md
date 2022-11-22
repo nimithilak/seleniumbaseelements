@@ -1,5 +1,5 @@
 # seleniumbaseelements  
-# Here all the screenshots included https://github.com/nimithilak/seleniumbaseelements/tree/main/mavenlearning/src/main/java
+# The screenshots are here https://github.com/nimithilak/seleniumbaseelements/tree/main/mavenlearning/src/main/java
 
 this includes all selenium base elements
 Textbox
